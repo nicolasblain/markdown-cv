@@ -1,2 +1,3 @@
 markdown:   kramdown
-style:  davewhipp
+    highlight: tango
+    theme: flatly
